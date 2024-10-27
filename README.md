@@ -5,6 +5,7 @@
 - Brazilian based in Lisbon 🌍
 
 **Socials**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-lourenco/) [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioluissv@gmail.com) [![Discord](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/19881165/ot%c3%a1vio-louren%c3%a7o)
 ___
 ### 🚀 Technologies I Work With
